@@ -1,0 +1,67 @@
+# =========================
+# Build / Maven / Gradle
+# =========================
+target/
+build/
+out/
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+*.gz
+
+# =========================
+# Entorno / secretos / configuración local
+# =========================
+.env
+.env.*
+*.env
+
+application-local.properties
+application-local.yml
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# =========================
+# Eclipse / STS
+# =========================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# =========================
+# NetBeans
+# =========================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos opcionales del proyecto
+# =========================
+HELP.md
