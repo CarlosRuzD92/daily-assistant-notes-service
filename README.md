@@ -1,4 +1,4 @@
-# notas
+# Notas
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-6DB33F)
