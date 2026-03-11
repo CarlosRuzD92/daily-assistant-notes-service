@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: notas
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,loggers
+  tracing:
+    sampling:
+      probability: 1.0
