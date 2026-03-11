@@ -2,8 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-6DB33F)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-black)
 ![JWT](https://img.shields.io/badge/Auth-JWT-blue)
 ![Maven](https://img.shields.io/badge/Build-Maven-C71A36)
 
