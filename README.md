@@ -12,7 +12,11 @@ Microservicio REST desarrollado con **Spring Boot** para la gestión de notas.
 
 Permite crear, consultar, actualizar y eliminar notas, protege los endpoints mediante **JWT**, persiste los datos en **MongoDB** y publica eventos en **Kafka** cuando se crea una nueva nota.
 
-> Uso de herramientas de IA como asistente de desarrollo para acelerar el flujo de trabajo y asegurar una arquitectura limpia.
+---
+
+## Enfoque del proyecto
+
+> Este proyecto no solo tiene un objetivo funcional, sino también formativo. Ha servido como entorno de aprendizaje para incorporar y aplicar tecnologías que no había trabajado previamente durante el grado superior, adquiriendo experiencia práctica en su uso, entendiendo mejor cómo se integran dentro de una arquitectura real y reforzando una base técnica más sólida.
 
 ---
 

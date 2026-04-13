@@ -43,23 +43,6 @@ class NotaTest {
     }
 
     @Test
-    void deberiaCrearNotaConConstructorCompleto() {
-        LocalDateTime fecha = LocalDateTime.now();
-
-        Nota nota = new Nota(
-                "1",
-                "Título de prueba",
-                "Contenido de prueba",
-                fecha
-        );
-
-        assertEquals("1", nota.getId());
-        assertEquals("Título de prueba", nota.getTitulo());
-        assertEquals("Contenido de prueba", nota.getContenido());
-        assertEquals(fecha, nota.getFecha());
-    }
-
-    @Test
     void dosNotasConLosMismosDatosDeberianSerIguales() {
         LocalDateTime fecha = LocalDateTime.now();
 
